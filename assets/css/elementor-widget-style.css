@@ -1,0 +1,134 @@
+.category span , span.draw-date {    color: #3D3C42;    font-family: "FT Regola Neue", Sans-serif;    font-size: 14px;    font-weight: 600;    line-height: 21px;}.category span , span.draw-date{    margin-bottom: 17px !important;    display: inline-block;}.category-inner {    font-size: 16px;    line-height: 1.3em;    color: #B7B1D0;}.giveaway-title {    color: #592A4F;    font-family: "IvyPresto Display", Sans-serif;    font-size: 32px;    line-height: 41.6px;    margin: 5px 0 9px 0;}span.price {    color: #3D3C42;    font-size: 12px;    font-weight: 600;    line-height: 18px;}.giveaway-value {    background-color: #E0F7FE;    display: inline-block;    padding: 2px 10px;    border-radius: 20px;    margin-bottom: 24px;}span.valued {    color: #3D3C42;    font-family: "FT Regola Neue", Sans-serif;    font-size: 12px;    font-weight: 400;    line-height: 18px;}.draw-data {    color: #592A4F;    font-family: "IvyPresto Display", Sans-serif;    font-size: 32px;    font-weight: 400;    margin-top: 25px;}.draw-data span {    color: #EBABBA !important;}.container.giveawy-couter-container{    max-width: 1368px !important;}.container.container-giveawya {    max-width: 1368px !important;    background-color: #fff;}section.giveaway-main-section{    max-width: 1368px !important;}.giveaway-data {    padding: 27px 32px 30px 32px !important;}span.draw-date {    border-top: 1px solid #e9e8ec;    display: block;    padding-top: 20px;}.draw-data {    border-bottom: 1px solid #e9e8ec;    padding-bottom: 35px;}.accordion-button:focus {    z-index: 3;    box-shadow: none;}.timer-inner-counter.float-end {    margin: 0px 0px 0px 0px;    padding: 8px 0px 4px 16px;    background-color: #F4FFB1;    font-family: "IvyPresto Display", Sans-serif;    font-style: italic;    color: #592A4F;    font-size: 32px;    font-weight: 400;    line-height: 41.5px;    width: 480px;    text-align: end;    position: absolute;    right: 0;    top: -75px;}.giveawy-accordion button.accordion-button:hover{    color:black !important;}.giveawy-accordion button.accordion-button {    border-radius: 0;    display: block;    width: 100%;    border: none;    text-align: start;    background-color: transparent;    color: #592a4f;    font-size: 16px;    font-family: "FT Regola Neue", sans-serif;    text-transform: capitalize;    padding:20px 0;}.giveawy-accordion {    border: none;}.giveawy-accordion  .accordion-item {    border-bottom: 1px solid #e9e8ec !important;    border-radius: 0px;    border: none;}.giveawy-accordion button.accordion-button.collapsed,.giveawy-accordion button.accordion-button {    padding:20px 0;    border-radius: 0;    display: flex;}h4#panelsStayOpen-headingOne {    margin: 0;}.giveaway-data .button-gain-more-entries a.gain-entry-class {    font-size: 13px;    font-weight: 400;    text-transform: uppercase;    line-height: 21.9px;    color: #FFFFFF !important;    background-color: #EF9ADD;    border-radius: 22px 22px 22px 22px;    padding: 12px 14px 10px 14px;    font-weight: 400;    letter-spacing: 2px;}.button-gain-more-entries {    margin-top: 40px;}.accordion-body {    font-size: 12px;    padding: 20px 0;}.accordion-button::after{    display: inline-block;    vertical-align: middle;}.accordion-button::after {    transition: 0.5s;}/*new Past winner's widget style start                                          */.our-winners{    background-color: #E6F1EA;    border-radius: 12px;}.our-winners .winner-main-heading{    margin-bottom: 32px;}.our-winners .winner-main-heading .head-title{    font-family: IvyPresto Display;    line-height: 41.6px;    font-size: 32px;    font-style: normal;    font-weight: 400;    color: #592A4F;    padding-left: 15px;}.our-winners .all_time_winner .main-winner-box .image-box img{    width: 100% !important;    max-width: 100%;    min-height: 434px;    object-fit: fill;}.our-winners .all_time_winner .main-winner-box{    background-color: rgba(255, 255, 255, 1);    min-height: 782px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner{    padding: 32px 28px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .category{    color:  #3D3C42;    font-family: FT Regola Neue;    font-size: 12px;    font-style: normal;    font-weight: 600;    line-height:  18px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .category .category-inner{    color:#B7B1D0;    font-weight: 400;    margin-top: -10px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .giveaway-title{    color: #592A4F;    font-family: IvyPresto Display;    font-size: 24px;    font-style: normal;    font-weight: 400;    line-height: 31.2px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .giveaway-value{    border-radius: 24px;    padding: 4px 12px;    margin-bottom: 16px;    border-bottom: 1px solid #E9E8EC;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .winner-div{    padding: 24px 0px;    border-top: 1px solid #E9E8EC;    border-bottom: 1px solid #E9E8EC;    color: #3D3C42;    font-family: FT Regola Neue;    font-size: 12px;    font-style: normal;    font-weight: 600;    line-height: 18px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .winner-div .winner-name{    color:  #592A4F;    font-family: IvyPresto Display;    font-size: 24px;    font-style: normal;    font-weight: 400;    line-height: 31.2px; /* 31.2px */margin-top: 8px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .winner-div .winner-name .winner-name-inner{    width: 190px;    white-space: nowrap;    overflow: hidden;    float:left;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .winner-div .user-package{    color: #EF9ADD;    font-family: FT Regola Neue;    font-size: 14px;    font-style: normal;    font-weight: 400;    line-height: 150%;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .drawn-div{    padding-top: 24px;}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .drawn-div span{    color:  #3D3C42;    font-family: FT Regola Neue;    font-size: 12px;    font-style: normal;    font-weight: 600;    line-height: 18px; / 18px /}.our-winners .all_time_winner .main-winner-box .giveawy-data-inner .drawn-div .drawn-date{    color: #592A4F;    font-family: FT Regola Neue;    font-size: 16px;    font-style: normal;    font-weight: 400;    line-height: 24px; / 24px /margin-top: 8px;}.our-winners .owl-nav{    top: -67px;    position: absolute;    right: 16px;    font-size: 40px;}.our-winners .owl-nav .owl-prev:hover{    opacity: 0.24;}.our-winners .owl-nav .owl-next:hover{    opacity: 0.24;}.our-winners .owl-nav .owl-prev{    margin-right: 24px;}.upcoming-giveaway-section{    padding:0px 15px;}.upcoming-giveaway-section .container-giveawy .main-upcoming-box{    background-color: #fff;    min-height: 436px;}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner{    padding: 24px 32px;}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .category{    color: #3D3C42;    font-family: FT Regola Neue;    font-size: 14px;    font-style: normal;    font-weight: 600;    line-height: 150%; / 21px /}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .category .category-inner{    color: #B7B1D0;    font-family: FT Regola Neue;    font-size: 12px;    font-style: normal;    font-weight: 400;    line-height: 150%; / 18px /margin-top: -8px;}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .upcoming-title{    color: #592A4F;    font-family: IvyPresto Display;    font-size: 24px;    font-style: normal;    font-weight: 400;    line-height: 130%; / 31.2px /}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .upcoming-value{    display: inline-block;    padding: 4px 12px;    gap: 8px;    border-radius: 24px;    background: #E0F7FE;    margin-top: 11px;    margin-bottom: 24px;}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .giveaway-last-date .draw-date{    color: #3D3C42;    font-family: FT Regola Neue;    font-size: 14px;    font-style: normal;    font-weight: 600;    line-height: 150%; / 21px /}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .giveaway-last-date  .draw-data{    color: #592A4F;    font-family: IvyPresto Display;    font-size: 24px;    font-style: normal;    font-weight: 400;    line-height: 130%; / 31.2px /margin-top: -4px;}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .giveaway-last-date  .draw-data span{    color: #EBABBA !important;}.upcoming-giveaway-section .upcomain-main-heading .head-title{    color:#592A4F;    font-family: IvyPresto Display;    font-size: 32px;    font-style: normal;    font-weight: 400;    line-height: 41.6px;    margin-left: 140px !important;    margin-bottom: 40px;}.upcoming-giveaway-section .owl-nav{    top: -72px;    position: absolute;    right: 16px;    font-size: 40px;}.upcoming-giveaway-section .owl-nav .owl-prev:hover{    opacity: 0.24;}.upcoming-giveaway-section .owl-nav .owl-next:hover{    opacity: 0.24;}.upcoming-giveaway-section .owl-nav .owl-prev{    margin-right: 24px;}.upcoming-giveaway-section .container-giveawy .main-upcoming-box .image-box img {    width: 100% !important;    max-width: 100%;    min-height: 436px;    object-fit: fill;}/*brands widget style start here*/.all-brands-section .container-brands .brands-main-heading .head-title{    max-width: 388px;    color: #3C3948;    font-family: IvyPresto Display;    font-size: 32px;    font-style: normal;    font-weight: 400;    line-height: 130%;    margin-bottom: 48px;}.all-brands-section .container-brands .brands-main-category ul{    padding: 0px;}.all-brands-section .container-brands .brands-main-category .brands-ul-custom-class li{    vertical-align: top;    margin-bottom: 40px;}.all-brands-section .container-brands .brands-main-category .brands-ul-custom-class li h3{    color: #EF9ADD;    font-family: Caprasimo;    font-size: 20px;    font-style: normal;    font-weight: 400;    line-height: 140%;}.all-brands-section .container-brands .brands-main-category .brands-ul-custom-class li a{    color: #3D3C42;    font-family: FT Regola Neue;    font-size: 16px;    font-style: normal;    font-weight: 400;    line-height: 150%;}/*brands widget style close here*/@media only screen and (max-width: 767px) {    .timer-inner-counter.float-end {        font-size: 20px;        width: 100%;        margin: 0 auto    }    .draw-data {        line-height: 1.2em;    }    .our-winners .winner-main-heading .head-title{        font-size: 24px;    }    .our-winners .owl-nav {        font-size: 24px;    }    .our-winners .all_time_winner .main-winner-box .image-box img{        /*height:311px;*/    }    .our-winners .all_time_winner .main-winner-box .giveawy-data-inner .category span{        font-size:12px;    }    .our-winners .all_time_winner .main-winner-box .giveawy-data-inner .category .category-inner{        font-size: 12px;    }    .our-winners .all_time_winner .main-winner-box .giveawy-data-inner .giveaway-title{        font-size:20px;    }    .our-winners .all_time_winner .main-winner-box .giveawy-data-inner .winner-div .winner-name{        font-size: 20px;    }    .upcoming-giveaway-section .upcomain-main-heading .head-title {        font-size: 24px;        margin-left: 0px !important;        margin-bottom: 24px !important;    }    .upcoming-giveaway-section .owl-nav{        font-size: 24px;    }    .upcoming-giveaway-section .owl-nav .owl-prev {        margin-right: 24px;    }    .upcoming-giveaway-section .container-giveawy .main-upcoming-box .image-box img{        width: 100%;        /*height: 311px;*/    }    .upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .giveaway-last-date .draw-data{        font-size: 20px;    }    .upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .upcoming-title{        font-size: 20px;    }    .upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .category span{        font-size: 12px;    }    .upcoming-giveaway-section .container-giveawy .main-upcoming-box .upcoming-data-inner .category-inner{        font-size: 12px;    }    .upcoming-giveaway-section .container-giveawy .main-upcoming-box .giveaway-last-date .draw-date{        font-size: 12px;    }    .upcoming-giveaway-section .container-giveawy .main-upcoming-box .giveaway-last-date .draw-data{        padding-bottom: 16px !important;        margin-top: 0px !important;    }    .upcoming-giveaway-section .owl-nav {        top: -55px;    }    .all-brands-section .container-brands .brands-main-heading .head-title{        font-size: 24px;    }    .all-brands-section .container-brands .brands-main-category .brands-ul-custom-class li{        width: 50% !important;    }}
+.main_section.entries-section {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color:#fff;
+    padding-top:60px;
+    padding-bottom:50px;
+}
+
+.main_section.entries-section .container-entries{
+    max-width: 100%;
+}
+.main_section.entries-section .entries-main-heading{
+    margin-bottom:20px;
+    margin-left: 60px;
+    max-width: 668px;
+}
+.main_section.entries-section .main_box {
+    border: 1px solid #e9e8ec;
+    border-radius: 15px;
+    padding-bottom: 24px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding:24px;
+    position:relative;
+    max-width:304px;
+}
+.main_section.entries-section .bg :hover {
+    background-color: #fcf4f3;
+    transition: background-color 0.6s ease-out;
+}
+.main_section.entries-section .main_box .top_section h2 {
+    font-family: "IvyPresto Display" , sans-serif;;
+    color: #592a4f;
+    font-size: 56px;
+    line-height: 67.2px;
+}
+.main_section.entries-section .main_box .top_section p{
+    color: #EF9ADD;
+    font-family: 'Caprasimo' , sans-serif;;
+    font-size: 15px;
+    font-weight: 400;
+}
+.main_section.entries-section .main_box .line {
+    border-bottom: 2px solid #e9e8ec;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.main_section.entries-section .main_box .list {
+    color: black;
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 26px;
+    padding-top: 26px;
+}
+.main_section.entries-section .main_box .list ul {
+    padding-left: 25px !important;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    margin-bottom: 1rem;
+    padding-inline-start: 40px;
+    line-height: 30px;
+}
+.main_section.entries-section .main_box .list ul  li {
+    font-size: 16px;
+    line-height: 24px;
+    padding-top:10px;
+}
+.main_section.entries-section .main_box .list ul  li::marker{
+    font-size:1.5rem;
+}
+.main_section.entries-section .main_box .btn {
+    width:100%;
+    padding:0px;
+}
+.main_section.entries-section .main_box .btn .buttons a{
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 1em;
+    text-decoration: none !important;
+    line-height: 1em;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+}
+.main_section.entries-section .main_box .btn .buttons {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #EF9ADD;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 2px;
+    padding-right: 2px;
+    width: 100%;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    border: transparent;
+    cursor: pointer;
+}
+.main_section.entries-section .main_box .btn .buttons  a :hover {
+    color: #000000 !important;
+    background-color: transparent !important;
+}
+.main_section.entries-section .main_box .main-popular{
+    margin: 0px 0px 0px 0px;
+    padding: 3px 7px 1px 7px;
+    background-color: #F4FFB1;
+    border-radius: 16px 16px 16px 16px;
+    text-align: center;
+    width: auto;
+    top: -14px;
+    position: absolute;
+    margin-left: 27%;
+    line-height: 11px;
+}
+.main_section.entries-section .main_box .main-popular .most-popular{
+    color: #3D3C42;
+    font-family: "FT Regola Neue", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+}
+.main_section.entries-section .row-enries-repeater {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1700px;
+    justify-content: space-around;
+    column-gap: 35px;
+}
